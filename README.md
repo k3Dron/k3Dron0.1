@@ -1,6 +1,10 @@
 # k3Dron0.1
-I only commit on github;
-UI enthusiast, who enjoys building and designing websites and applications
+UI enthusiast, who enjoys building and designing applications.
+
+Mother tongue  : Java
+
 Experienced in flutter
+
 Discovering realms of OpenCV
+
 
