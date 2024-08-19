@@ -5,6 +5,8 @@ Mother tongue  : Java
 
 Experienced in flutter
 
+Building DL architectures
+
 Discovering realms of OpenCV
 
 
